@@ -1,6 +1,6 @@
 #!/usr/bin/perl
-# $File: //member/autrijus/GeekCode/Makefile.PL $ $Author: autrijus $
-# $Revision: #2 $ $Change: 699 $ $DateTime: 2002/08/17 22:01:07 $
+# $File: //member/autrijus/Convert-GeekCode/Makefile.PL $ $Author: autrijus $
+# $Revision: #2 $ $Change: 7317 $ $DateTime: 2003/08/03 16:01:41 $
 
 use ExtUtils::MakeMaker;
 require 5.005;
@@ -10,8 +10,8 @@ WriteMakefile (
     DISTNAME     => 'Convert-GeekCode',
     ABSTRACT     => 'Convert and generate geek codes sequences',
     AUTHOR       => 'Autrijus Tang (autrijus@autrijus.org)',
-    VERSION_FROM => 'GeekCode.pm',
-    EXE_FILES    => [ <bin/*> ],
+    VERSION_FROM => 'lib/Convert/GeekCode.pm',
+    EXE_FILES    => [ qw(script/geekdec script/geekgen) ],
 
     PREREQ_PM	 => {
 	'Text::Wrap'	=> '0',

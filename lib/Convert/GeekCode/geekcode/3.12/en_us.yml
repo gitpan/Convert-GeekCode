@@ -1,5 +1,5 @@
-# $File: //member/autrijus/GeekCode/GeekCode/geekcode/3.12/en_us.yaml $ $Author: autrijus $
-# $Revision: #1 $ $Change: 698 $ $DateTime: 2002/08/17 22:00:38 $
+# $File: //member/autrijus/Convert-GeekCode/lib/Convert/GeekCode/geekcode/3.12/en_us.yml $ $Author: autrijus $
+# $Revision: #1 $ $Change: 7317 $ $DateTime: 2003/08/03 16:01:41 $
 
 --- #YAML:1.0
 Author: |-
@@ -684,6 +684,8 @@ _:
  e:
   '': |-
    Finished High School.
+  '*': |-
+   I learned everything there is to know about life from the "Hitchhiker's Trilogy".
   '+': |-
    Got an Associate degree.
   '++': |-

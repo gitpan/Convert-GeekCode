@@ -1,5 +1,5 @@
-# $File: //member/autrijus/GeekCode/GeekCode/geekcode/3.12/zh_tw.yaml $ $Author: autrijus $
-# $Revision: #1 $ $Change: 698 $ $DateTime: 2002/08/17 22:00:38 $
+# $File: //member/autrijus/Convert-GeekCode/GeekCode/geekcode/3.12/zh_tw.yaml $ $Author: autrijus $
+# $Revision: #1 $ $Change: 701 $ $DateTime: 2002/08/18 05:45:49 $
 
 --- #YAML:1.0
 Author: |-
@@ -18,9 +18,9 @@ Sequence: ! >-
 Tail: |-
  ------END GEEK CODE BLOCK------
 Title: |-
- м絏
+ 技客码
 Translator: |-
- Autrijus Tang <autrijus@autrijus.org>Ilya Eric Lee <ilya@elixus.org>
+ Autrijus Tang <autrijus@autrijus.org>, Ilya Eric Lee <ilya@elixus.org>
 Ver: |-
  Version: 
 Version: |-
@@ -28,25 +28,25 @@ Version: |-
 _:
  '':
   '!': |-
-   и圭ぃ盢耴摸.
+   我宁可不将自己归类。
   '$': |-
-   綼硂寥窥!
+   靠这个赚钱！
   '(': |-
-   Τи穦弧:
+   有时候我会说：
   ')': |-1
     
   '/': |-
    ;
   '>': |-
-   и辨盢ㄓ弧:
+   我希望将来能说：
   '?': |-
-   硈钮常⊿钮筁...
+   连听都没听过...
   '@': |-
-   琌ぃ﹚...
+   但是也不一定...
   _: |-
  5:
   '': |-
-   I've seen it, I am pretty indifferent to it.
+   我看过了，没什么感觉。
   '+': ! >-
    Babylon 5 certainly presents a fresh perspective in the Sci-Fi universe.  I
    watch it weekly.
@@ -68,51 +68,51 @@ _:
    Babylon 5
  C:
   '': |-
-   筿福碞琌ㄣτ. иノウㄓ暗稱暗ㄆ.
+   计算机就祗是工具而已。我用它来做想做的事。
   '++': >-
-   筿福иネ场. –ぱи癬材ンㄆ碞琌絬.
-   и秅ソ筿福笴栏┪硈絬笴栏, 琌临ぃ琵讽奔.
+   计算机占我生活的一大部份。每天我起床第一件事就是上线。
+   我在周末玩计算机游戏或联机游戏，但是还不至于让自己被二一。
   '+++': |-
-   呼隔ぇ临Τネ? 秨! и竒碭秅⊿揭.
+   网络之外还有别的生活？开玩笑！我已经几周没去上课了。
   '++++': |-
-   иぃの稱р穝ネて杆繷芵柑.
+   我迫不及待想把新的生化界面装到头颅里。
   '-': |-
-   ゑ璸衡诀狡馒狥﹁и碞穌ぃ来.
+   比计算器复杂的东西我就搞不懂了。
   '--': |-
-   秨诀璶柑?
+   开机要按哪里？
   '---': |-
-   狦矗筿福, и碞璶ъ╣!
+   如果再提到计算机，我就要抓狂了！
   _: |-
-   筿福
+   计算机
  D:
   '': |-
-   и筁硂笴栏, 谋眔⊿ぐ或ぃ妓.
+   我玩过这个游戏，觉得没什么不一样的。
   '+': |-
-   硂琌Τ届笆笴栏, 続と礚册.
+   这是个有趣的动作游戏，很适合在下午无聊的时候玩。
   '++': |-
-   и筁ㄉ硁砰, 禦タΑ, ゴ眔临ぃ岿. иΤ穦更 PWAD 郎.
+   我玩过共享软体版、买了正式版，打得还不错。我有时候会下载 PWAD 档玩玩看。
   '+++': >-
-   и–ぱ更穝 PWAD 郎, 穝┣脋, 猌竟, ㎝莱ノ祘Α. и琌反防驹ぇ.
-   и超泊氟常セ瓜ノ程蔼螟瘆闽.
+   我每天下载新的 PWAD 档、怪兽更新、武器、音效和应用程序。我是毁灭战士之神。
+   我闭上眼睛都能在原本的地图上用最高难度破关。
   '++++': |-
-   и琌iD Software.
+   我是iD Software的员工。
   '-': |-
-   и筁硂笴栏, 谋眔龟ぃ或妓.
+   我玩过这个游戏, 觉得实在不怎么样。
   '--': |-
-   硂琌禬忌潸み笴栏.
+   这是个超级暴力恶心的游戏。
   '---': |-
-   反防驹年硓. и胔├ Zork.
+   毁灭战士烂透了。我怀念 Zork。
   '----': |-
-   и Atari 2000 常Τ笴栏.
+   在我的 Atari 2000 上都有更好的游戏。
   _: |-
-   反防驹
+   毁灭战士
  DI:
   '': |-
-   I read Dilbert infrequently, rarely understanding it.
+   我偶尔会看呆伯持，但是很少看懂。
   '+': |-
    I read Dilbert daily, often understanding it.
   '++': |-
-   I work with people that act a lot like Dilbert and his boss.
+   我的办公室里，就有不少跟呆伯特和他老板神似的人物。
   '+++': |-
    I am a Dilbert prototype.
   '++++': ! >-
@@ -131,119 +131,119 @@ _:
    Dilbert
  E:
   '': |-
-   癸, и笵ぐ或琌 emacs, ノウら盽ゅ絪胯.
+   对，我知道什么是 emacs，也用它作日常文字编辑。
   '+': |-
-   Emacs 痷ぃ岿! иノウㄓ弄秎ン㎝癚阶竤!
+   Emacs 真不错！我用它来读邮件和讨论群！
   '++': |-
-   и来 elisp, 盽盽ノ!
+   我懂 elisp，也常常用！
   '+++': ! >-
-   Emacs 琌и祅㏑︽!! M-x doctor 琌иみ瞶洛ネ! иノ
-   emacsㄓ换北筿跌㎝疦絚! ﹑硂ㄇノ vi セぃ笵岿筁ぐ或!
-   и璹綷alt.religion.emacs, alt.sex.emacs, ㎝ comp.os.emacs.
+   Emacs 是我的登入 shell！！M-x doctor 是我的心理医生！我用
+   emacs来遥控电视和烤箱! 你们这些用 vi 的根本不知道自己错过了什么！
+   我订阅 alt.religion.emacs、alt.sex.emacs 和 comp.os.emacs。
   '-': |-
-   Emacs 癸иτēび胑, び勘等.
+   Emacs 对我而言太庞大，功能太膨胀了。
   '--': |-
-   Emacs ぃ筁琌玁ゅ絪胯竟.
+   Emacs 祗不过是个花俏的文书编辑器。
   '---': |-
-   Emacs 年硓! vi 窾烦!!!
+   Emacs 烂透了！vi 万岁！！！
   '----': |-
-   Emacs 年硓! pico 窾烦!!!
+   Emacs 烂透了！pico 万岁！！！
   _: |-
    Emacs
  G:
   '': |-
-   и笵ぐ或琌м絏, 临.
+   我知道什么是技客码，甚至还作了自己的。
   '+': |-
-   и纯竒琌 G++ (┪蔼), 穝セびび狡馒.
+   我曾经是 G++（或更高），但新的版本太长太复杂了。
   '++': |-
-   и笵–ダ種竡, Τ临琌眔琩灿竊.
+   我知道每个字母的意义，但有时候还是得查细节。
   '+++': >-
-   ирм絏俱璉ㄓ,
-   福柑秆ㄤ絏.и笵呼隔程穝璶柑т.
+   我把技客码整个背了下来，
+   能在脑里解其它人的码。我也知道网络上的最新版要在哪里找。
   '++++': |-
-   и某筁ゼㄓセず甧.
+   我建议过未来版本的内容。
   '+++++': |-
-   и琌 Robert Hayden.
+   我是 Robert Hayden。
   '-': |-
-   硂м絏痷琌禣丁伐.
+   这个技客码真是浪费时间极了。
   '--': |-
-   ぃ琌禣丁, 临ボ硂 Hayden 趁ルネ.
+   不祗是浪费时间，还表示这个叫 Hayden 的家伙的人生乏味。
   _: |-
-   м絏
+   技客码
  K:
   '': |-
-   и笵街琌 Kibo.
+   我知道谁是 Kibo。
   '+': |-
-   и尺舧 Kibo.
+   我喜欢 Kibo。
   '++': |-
-   и弄筁 Kibo.
+   我读过 Kibo。
   '+++': |-
-   иΜ筁 Kibo 獺.
+   我收过 Kibo 的信。
   '++++': |-
-   иǎ筁 Kibo.
+   我见过 Kibo。
   '+++++': |-
-   и㎝ Kibo 暗筁稲.
+   我和 Kibo 做过爱。
   '++++++': |-
-   и碞琌 Kibo.
+   我就是 Kibo。
   '-': |-
-   иぃ笵街琌 Kibo.
+   我不知道谁是 Kibo。
   '--': |-
-   и癚菇 Kibo.
+   我讨厌 Kibo。
   '---': |-
-   иヘ玡タ發炳 Kibo, ゴ衡рみ纽眖ㄓ, 泊玡帝.
+   我目前正在追杀 Kibo, 打算把他的心脏从胸口活剥出来, 放在他眼前看著他死。
   '----': |-
-   и琌 Xibo.
+   我是 Xibo。
   _: |-
    Kibo
  L:
   '': |-
-   и笵ぐ或琌 Linux, 碞硂妓τ.
+   我知道什么是 Linux，也就这样而已。
   '!': |-
-   иぃ笵ぐ或琌 Linux!
+   我甚至不知道什么是 Linux！
   '+': |-
-   ир Linux 杆, ノ筁碭Ω. ウ癬ㄓ蛤ㄤ穨╰参⊿ㄢ妓.
+   我把 Linux 装了，也用过几次。它看起来跟其它操作系统没两样。
   '++': >-
-   и*碭*ノ linux. и斌讽 Linux.God, 琌蔼砍р DOS 传奔. иノ
-   DOSㄓ筿福笴栏.
+   我*几乎*祗用 linux。我放弃当 Linux.God，但是很高兴能把 DOS 换掉。我祗用
+   DOS 来玩计算机游戏.
   '+++': |-
-   и╰参杆 Linux. и璹綷 comp.os.linux.*, Τ临氮拜肈.
+   我的系统上祗装 Linux。我订阅 comp.os.linux.*，有时甚至还回答上面的问题。
   '++++': >-
-   и琌 Linux 畍. иΝ繺仇 C 祘Α絏,
-   临痙ì镑璆み絏埃岿.и杆びタ郎,
-   セぇ玡碞穌ぃ睲贰琌ㄇ. Linux 穝も讽и琌net.god.
+   我是个 Linux 巫师。我早餐吃 C 程序码，
+   还留下足够的胃口作核心码除错。我装了太多修正档，
+   在十个版本之前就搞不清楚是哪些了。 inux 的新手当我是 net.god。
   '+++++': |-
-   и琌 Linus, 饯и.
+   我是 Linus，膜拜我吧。
   '-': >-
-   иセぃ稱ノ Linux, ㈱フ弧, и翴常ぃ谋眔ウ妓. Τㄤ穨╰参,钩琌
-   Mac, DOS, ┪ Amiga-OS. 璶ぃ礛, 钩 FreeBSD 硂贺禣 Unix OS 临.
+   我根本不想用 Linux，坦白说，我一点都不觉得它怎样，有其它更好的操作系统，像是
+   Mac、DOS 或 Amiga-OS。要不然，像 FreeBSD 这种自由 Unix OS 也更好。
   '--': |-
-   Unix 年硓.  Linux = Unix. Linux 年硓. и盧ゑ焊籠.
+   Unix 烂透了。而因为 Linux = Unix。Linux 也烂透了。我崇拜比尔盖兹。
   '---': |-
-   и碞琌ゑ焊籠.
+   我就是比尔盖兹。
   _: |-
    Linux
  M:
   '': |-
-   иノ沉娥, 琌⊿Τぐ或疭種ǎ.
+   我用麦金塔，但是没有什么特别意见。
   '+': |-
-   沉娥Τウノ矪, и竒盽ㄏノウ.
+   麦金塔有它的用处，我经常使用它。
   '++': >-
-   и琌沉娥畍. ヴ DOS 浩㎝ Linux ┣璍︽, и常穦.
-   璶琌⊿Τ硂兜, и碞糶硁砰ㄓ暗.
+   我是个麦金塔大师，任何 DOS 疯子和 Linux 怪胎行的，我也都会。
+   要是没有这项功能，我就自己写软体来做到。
   '-': |-
-   沉娥年硓. ┮Τ痷タм常Τ㏑.
+   麦金塔烂透了，所有真正的技客都有个命令列。
   '--': >-
-   沉娥ぃゎ琌年硓. ウ琵ㄏノ跑猜, 琵ぃ笵暗ぐ或巨╰参.
-   沉娥竲醇坝ゑи▄吕泊柑铬癉临.
+   麦金塔不止是烂透了。它们让使用者变笨，让不知道自己在做什么的人也能操作系统。
+   麦金塔小脚的智商比我肚脐眼里的跳蚤还低。
   _: |-
-   Macintosh
+   麦金塔
  N:
   '': |-
    Usenet News?  Sure, I read that once.
   '*': |-
    All I do is read news.
   '+': |-
-   I read news recreationally when I have some time to kill.
+   要杀时间的时候，我会看些文章消遣一下。
   '++': |-
    I read all the news in a select handful of groups.
   '+++': ! >-
@@ -275,7 +275,7 @@ _:
   '-': |-
    Tried it, didn't like it.
   '--': |-
-   I can't even get the thing to install!
+   我根本安装不起来！
   '---': |-
    Windows RULES!!!  Long live Bill Gates.  (See w++++).
   '----': |-
@@ -284,35 +284,35 @@ _:
    OS/2
  P:
   '': |-
-   и笵Τ perl, 碞硂妓τ.
+   我知道有 Perl，就这样而已。
   '+': |-
-   и笵 Perl. и尺舧 Perl. и琌⊿Τ厩び Perl, 琌ゴ衡.
+   我知道 Perl。我喜欢 Perl。我祗是没有学到太多 Perl，但是打算慢慢学。
   '++': |-
-   Perl 琌眏祘Αㄣ. иぃ糶 shell scripts, 常эノ Perl糶.
+   Perl 是个强力的程序工具。我不再写 shell 命令稿，都改用 Perl 写了。
   '+++': ! >-
-   Perl 琌獶盽眏祘Αㄣ. иぃ度氨ゎ糶 shell scripts, ぃㄏノ awk ┪
-   sed . ぶ︽祘Αи常ノ perl ㄓ糶.
+   Perl 是个非常强力的程序工具。我不仅停止写 shell 命令稿，也不再使用 awk 或
+   sed 了。少于一千行的程序我都用 Perl 来写。
   '++++': >-
-   иぃゎ糶 Perl, иノウㄓ弧杠. Perl
-   禬禫ちㄤウ祘Α粂ē.и过┏粄┮Τ祘Α常て虏Θ︽ Perl. иノ Perl
-   笷 U+++挂.
+   我不止写 Perl，我用它来说话。Perl
+   超越了一切其它的程序语言。我彻底认为所有程序都可以化简成一行 Perl。我用 Perl
+   达到 U+++ 的境界。
   '+++++': |-
-   и琌 Larry Wall, Tom Christiansen, ┪ Randal Schwartz.
+   我是 Larry Wall，Tom Christiansen，或 Randal Schwartz.
   '-': |-
-   Perl 螟笵Τぐ或禬筁 awk ㎝ sed 盾?
+   Perl 难道有什么超过 awk 和 sed 的功能吗？
   '--': |-
   '---': |-
-   Perl 挡 sh , sed 来, awk 瞯籔 C 虏间.ウ莱赣砆窽ノ.
+   Perl 结合了 sh 的威力、sed 的易懂、awk 的效率与 C 的简洁。它应该被禁用。
   '?': |-
-   ぐ或琌 Pearl?
+   什么是 Pearl？
   _: |-
    Perl
   ? |-
-   erl ㄏノ琌ㄇ痜篈, み瞶ぃタ盽祘Α砞璸畍, 笵芥
+   Perl 的使用者全是些病态、心理不正常的程序员，祗知道卖弄而已。
 : |-
  PE:
   '': |-
-   Distrust both government and business.
+   对政府及企业都不要相信。
   '+': |-
    Balance the budget with spending cuts and an amendment.
   '++': ! >-
@@ -328,12 +328,12 @@ _:
    Capitalism is evil!  Government should provide the services we really need. 
    Nobody should be rich.
   _: |-
-   Politics & Economic Issues
+   政治经济议题
  PGP:
   '': |-
    I've used it, but stopped long ago.
   '++': |-
-   I have the most recent version and use it regularly.
+   我装了最新版本，也经常使用。
   '+++': ! >-
    I don't send or answer mail that is not encrypted, or at the very least
    signed.  If you are reading this without decrypting it first, something is
@@ -365,7 +365,7 @@ _:
    I give to liberal causes.  I march for gay rights.  I'm a card carrying
    member of the ACLU.  Keep abortion safe and legal.
   '+++': |-
-   Legalize drugs!  Abolish the government.  Fuck the draft!
+   药物合法化！废除政府！去他的徵兵制！
   '-': |-
    Label records!  Keep dirty stuff off the TV and the Internet.
   '--': ! >-
@@ -375,12 +375,12 @@ _:
    Repent left-wing sinners and change your wicked evil ways.
    Buchanan/Robertson in '96.
   _: |-
-   Politics & Social Issues
+   政治社会议题
  R:
   '': |-
    Role-Playing?  That's just something to do to kill a Saturday afternoon.
   '*': |-
-   I thought life WAS role-playing?
+   我以为生命就是一场角色扮演？
   '+': ! >-
    I've got my weekly sessions set up and a character that I know better than I
    know myself.
@@ -397,7 +397,7 @@ _:
   '---': |-
    I work for T$R.
   _: |-
-   Role-Playing
+   角色扮演
  U:
   '': |-
    I have a unix account to do my stuff in.
@@ -485,7 +485,7 @@ _:
    A pox on the Web!  It wastes time and bandwidth and just gives the
    uneducated morons a reason to clutter the Internet.
   _: |-
-   World Wide Web
+   全球信息网
  X:
   '': |-
    Ho hum.  Just another Fox show.
@@ -510,7 +510,7 @@ _:
   '--': |-
    If I wanted to watch this kind of stuff, I'd talk to Oliver Stone
   _: |-
-   X Files
+   X 档案
  Y:
   '': |-
    I'm pretty indifferent on the whole issue.
@@ -534,91 +534,91 @@ _:
   '---': |-
    I am L. Detweiler.
   _: |-
-   Cypherpunks
+   编码叛客
  _:
   '!': |-
-   礚だ摸м
+   无分类技客
   AT: |-
-   窾м
+   万能技客
   B: |-
-   坝穨м
+   商业技客
   C: |-
-   ㄥм
+   古典技客
   CA: |-
-   坝穨美砃м
+   商业艺术技客
   CC: |-
-   硄癟м
+   通讯技客
   CM: |-
-   筿福恨瞶м
+   计算机管理技客
   CS: |-
-   戈癟厩м
+   信息科学技客
   E: |-
-   祘м
+   工程技客
   ED: |-
-   毙▅м
+   教育技客
   FA: |-
-   砃м
+   美术技客
   G: |-
-   現┎м
+   政府技客
   H: |-
-   ゅм
+   人文技客
   IT: |-
-   戈癟мм
+   信息科技技客
   J: |-
-   猭м
+   法律技客
   L: |-
-   ゅ厩м
+   文学技客
   LS: |-
-   瓜恨瞶м
+   图书管理技客
   M: |-
-   计厩м
+   数学技客
   MC: |-
-   渤肚冀м
+   大众传播技客
   MD: |-
-   洛媚м
+   医药技客
   MU: |-
-   贾м
+   音乐技客
   O: |-
-   ㄤ摸м
+   其它类技客
   P: |-
-   厩м
+   哲学技客
   PA': |-
-   簍美砃м
+   表演艺术技客
   S: |-
-   厩(计瞶ネて)м
+   科学(数理生化)技客
   SS: |-
-   穦厩м
+   社会科学技客
   TW: |-
-   м砃糶м
+   技术写作技客
   U: |-
-   ゼ∕﹚м
+   未决定技客
   _: |-
-   м摸
+   技客类型
  a:
   '': |-
-   竒筁临ぃ....
+   已经过了三十，还不到四十...
   '!': |-
-   и碭烦闽﹑裕ㄆ
+   我几岁关你啥事咧？
   '+': |-
-   烦临琌兵纒....
+   四十多岁还是一条活龙...
   '++': |-
-   и妮きき烦ぇ丁...
+   孩子，我属于五十到五十九岁之间..
   '+++': |-
-   и竒せ烦罢镑ρ
+   我已经六十多岁啦。够老了吧！
   '-': |-
-   и 25-29е....
+   我 25-29，快三十了...
   '--': |-
-   и 20-24繷
+   我 20-24，二十出头。
   '---': |-
-   и 15-19烦
+   我 15-19岁。
   '----': |-
-   и 10-14烦
+   我 10-14岁。
   '-----': |-
-   и烦┪临ぃ骸烦м痁
+   我九岁，或者还不满九岁？〈技客先修班？〉
   '?': |-
-   и琌ぃΥ(xxxx)
+   我是不朽的！
   _: |-
-   Age
+   年龄
  b:
   '': |-
    I read the newspaper and the occasional book.
@@ -637,7 +637,7 @@ _:
   '--': |-
    I did not actually READ the geek code, I just had someone tell me.
   _: |-
-   Books
+   书藉
  d:
   '': ! >-
    I dress a lot like those found in catalog ads.  Bland, boring, without life
@@ -659,7 +659,7 @@ _:
   '?': |-
    I have no idea what I am wearing right now, let alone what I wore yesterday.
   _: |-
-   Dress
+   衣著
   pu: ! >-
    I wear the same clothes all the time, no matter the occasion, forgetting to
    do laundry between wearings.
@@ -667,23 +667,25 @@ _:
    Cross Dresser
  e:
   '': |-
-   蔼い搬Ч罢
+   高中念完啦。
+  '*': |-
+   生命里的一切，我都从『银河搭便车者指南』里学会了。
   '+': |-
-   竪穨罢 / ヰ厩い
+   肄业啦 / 休学中。
   '++': |-
-   厩痷螟搬
+   大学真难念。
   '+++': |-
-   и琌河抽
+   我是硕四哟！
   '++++': |-
-   痴е碭碞穌﹚
+   博士快拿到了。
   '+++++': |-
-   и琌甫ひ繬и稲吹㈱
+   我是史蒂芬．霍金。
   '-': |-
-   タ籔蔼い厩灸矮い
+   正在与高级中学奋斗中
   '--': |-
-   临⊿Τ秈蔼い㎡...
+   还没有进高中呢...
   _: |-
-   毙▅篈
+   教育程度
  h:
   '': ! >-
    Friends come over to visit every once in a while to talk about Geek things. 
@@ -710,7 +712,7 @@ _:
   '----': |-
    Married with children - Al Bundy can sympathize.
   _: |-
-   Housing
+   居住
  o:
   '': |-
    I've submitted a question, but it has never been incarnated.
@@ -754,7 +756,7 @@ _:
    I'm beginning to think that I'm a leper or something, the way people avoid
    me like the plague.
   _: |-
-   Relationships
+   亲密关系
  s:
   '+': |-
    I'm a little rounder than most.
@@ -795,7 +797,7 @@ _:
   ':---': |-
    My bones are poking through my skin.
   _: |-
-   Shape
+   身材
  t:
   '': |-
    It's just another TV show.
@@ -825,7 +827,7 @@ _:
    Star Trek SUCKS!  It is the worst crap I have ever seen! Hey, all you
    trekkies out there, GET A LIFE!  (William Shatner is a t---).
   _: |-
-   Star Trek
+   星舰迷航
  tv:
   '': ! >-
    I watch only the shows that are actually worthwhile, such as those found on
@@ -841,7 +843,7 @@ _:
   '--': |-
    I turn my tv on during natural disasters.
   _: |-
-   Television
+   电视
  w:
   '': |-
    Ok, so I use MS Windows, I don't have to like it.
@@ -873,7 +875,7 @@ _:
    Gates should be drawn, quartered, hung, shot, poisoned, disembowelled, and
    then REALLY hurt.
   _: |-
-   MicroSoft Windows
+   微软窗口
  x:
   '': |-
    I've had sex.  Oh!  You mean with someone else?  Then no.
@@ -906,7 +908,7 @@ _:
   '?': |-
    It's none of your business what my sex life is like.
   _: |-
-   Sex(Female)
+   性(女)
  y:
   '': |-
    I've had sex.  Oh!  You mean with someone else?  Then no.
@@ -937,7 +939,7 @@ _:
   '?': |-
    It's none of your business what my sex life is like.
   _: |-
-   Sex(Male)
+   性(男)
  z:
   '': |-
    I've had sex.  Oh!  You mean with someone else?  Then no.
@@ -968,4 +970,4 @@ _:
   '?': |-
    It's none of your business what my sex life is like.
   _: |-
-   Sex(Undisclosed)
+   性(无可奉告)

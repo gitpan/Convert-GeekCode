@@ -1,8 +1,8 @@
-# $File: //member/autrijus/GeekCode/GeekCode.pm $ $Author: autrijus $
+# $File: //member/autrijus/Convert-GeekCode/lib/Convert/GeekCode.pm $ $Author: autrijus $
 package Convert::GeekCode;
 require 5.001;
 
-$Convert::GeekCode::VERSION = '0.5';
+$Convert::GeekCode::VERSION = '0.51';
 
 use strict;
 use vars qw/@ISA @EXPORT $VERSION $DELIMITER/;
@@ -13,6 +13,10 @@ use Exporter;
 =head1 NAME
 
 Convert::GeekCode - Convert and generate geek code sequences
+
+=head1 VERSION
+
+This document describes version 0.51 of PAR, released August 4, 2003.
 
 =head1 SYNOPSIS
 
@@ -58,8 +62,8 @@ sub new {
 
     $lang =~ tr/-/_/; # paranoia
 
-    my $file = locate("$id/$version/$lang.yaml")
-        or die "cannot locate $id/$version/$lang.yaml in @INC";
+    my $file = locate("$id/$version/$lang.yml")
+        or die "cannot locate $id/$version/$lang.yml in @INC";
         
     my $self = YAML::LoadFile($file);
     return bless($self, $class);
@@ -216,7 +220,7 @@ Autrijus Tang E<lt>autrijus@autrijus.orgE<gt>
 
 =head1 COPYRIGHT
 
-Copyright 2001, 2002 by Autrijus Tang E<lt>autrijus@autrijus.orgE<gt>.
+Copyright 2001, 2002, 2003 by Autrijus Tang E<lt>autrijus@autrijus.orgE<gt>.
 
 This program is free software; you can redistribute it and/or 
 modify it under the same terms as Perl itself.

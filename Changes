@@ -1,45 +1,32 @@
 ____________________________________________________________________________
-[   699] By: autrijus                              on 2002/08/17  22:01:07
-        Log: * This be version 0.5.
-             * Fixed documentation and distnames.
-	   ! GeekCode.pm Makefile.PL README bin/geekdec bin/geekgen
+[  7318] By: autrijus                              on 2003/08/03  16:04:13
+        Log: * This be 0.51.
+             * switch from .yaml to .yml.
+             * update copyright year.
+	   ! README lib/Convert/GeekCode.pm
 ____________________________________________________________________________
-[   698] By: autrijus                              on 2002/08/17  22:00:38
-        Log: * switch serialization format to YAML.
-	   + GeekCode/geekcode/3.12/en_us.yaml
-	   + GeekCode/geekcode/3.12/zh_tw.yaml
-	   - GeekCode/geekcode-3.12-en_us.txt
-	   - GeekCode/geekcode-3.12-zh_tw.txt
+[  7317] By: autrijus                              on 2003/08/03  16:01:41
+        Log: * massive rename.
+	  +> lib/Convert/GeekCode.pm
+	  +> lib/Convert/GeekCode/geekcode/3.12/en_us.yml
+	  +> lib/Convert/GeekCode/geekcode/3.12/zh_cn.yml
+	  +> lib/Convert/GeekCode/geekcode/3.12/zh_tw.yml
+	  +> script/geekdec script/geekgen t/0-signature.t
+	  +> t/1-basic.t
+	   - GeekCode.pm GeekCode/geekcode/3.12/en_us.yaml
+	   - GeekCode/geekcode/3.12/zh_cn.yaml
+	   - GeekCode/geekcode/3.12/zh_tw.yaml bin/geekdec
+	   - bin/geekgen t/GeekCode.t
+	   ! MANIFEST Makefile.PL
 ____________________________________________________________________________
-[  2164] By: autrijus@autribsd                     on 2001/10/20 01:16:43
-	Log: * This be Convert::GeekCode v0.4.
-	     * RCS tag, file types.
+[  7316] By: autrijus                              on 2003/08/03  15:57:39
+        Log: * bump version to 0.51.
+	   ! GeekCode.pm
 ____________________________________________________________________________
-[  2163] By: autrijus@autribsd                     on 2001/10/20 01:13:44
-	Log: * make the Synposis example output more clearly.
-	     * updated documentation and style changes.
-	     * no longer elicits warnings under 5.7+.
-____________________________________________________________________________
-[  2162] By: autrijus@autribsd                     on 2001/10/20 01:13:05
-	Log: * updates the accessory files to modern usage.
-____________________________________________________________________________
-[  2161] By: autrijus@autribsd                     on 2001/10/20 00:57:15
-	Log: * some more translations.
-____________________________________________________________________________
-[   414] By: autrijus@autribsd                     on 2001/02/06 06:41:18
-	Log: * GeekCode v0.3 -- finally working on non Win32 platforms
-____________________________________________________________________________
-[   401] By: autrijus@autrihome                    on 2001/02/04 13:01:21
-	Log: GeekCode-0.2 release on CPAN
-____________________________________________________________________________
-[   393] By: autrijus@autribsd                     on 2001/02/01 00:13:31
-	Log: * add mailbox support to BBSCOM
-	     * change ANSIScreen-1.0 to ANSIScreen path, updated to 1.1
-	     * initial geek code submit
-____________________________________________________________________________
-[   350] By: autrijus@autribsd                     on 2001/01/13 08:45:53
-	Log: * updated code specs
-	     * revised test case accordign to my own geek code
-____________________________________________________________________________
-[   349] By: autrijus@autribsd                     on 2001/01/13 08:08:53
-	Log: GeekCode v0,1 initial submit.
+[  5083] By: autrijus                              on 2003/04/01  18:08:06
+        Log: * somebody points out that e* is missing. duh.
+             * some more translation.
+             * simplified chinese version.
+	   + GeekCode/geekcode/3.12/zh_cn.yaml
+	   ! GeekCode/geekcode/3.12/en_us.yaml
+	   ! GeekCode/geekcode/3.12/zh_tw.yaml MANIFEST

@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
-# $File: //member/autrijus/GeekCode/t/GeekCode.t $ $Author: autrijus $
-# $Revision: #1 $ $Change: 1 $ $DateTime: 2002/06/11 08:35:12 $
+# $File: //member/autrijus/Convert-GeekCode/t/1-basic.t $ $Author: autrijus $
+# $Revision: #1 $ $Change: 7317 $ $DateTime: 2003/08/03 16:01:41 $
 
 use strict;
 use Test;
