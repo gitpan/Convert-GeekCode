@@ -1,0 +1,33 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.06.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It would check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 71ae3bbe2f51d50f1642f40eb3227cea8e939cb5 Changes
+SHA1 da528b62a3d4eb9955036ece2f5e1806e5fea725 GeekCode.pm
+SHA1 44ba70e1f19ecabb463112ebbff8fa967ff025a7 GeekCode/geekcode/3.12/en_us.yaml
+SHA1 7cc3ba608e2cf8abcdb6bbab3637b9ceb2204d19 GeekCode/geekcode/3.12/zh_tw.yaml
+SHA1 f9f270cfab121f9738696232b649b4205ab6af6a MANIFEST
+SHA1 3f17e71f19c3966d9194a22994b3ddcd49c54d40 Makefile.PL
+SHA1 a92ef9d4ad14b29dc4a549063e9c9e46a444e67c README
+SHA1 22785e6be312a4130c546d9af4636e2d73db582f bin/geekdec
+SHA1 826e6aaac89b328d9ce26687d7abecade3738f3a bin/geekgen
+SHA1 cdf9b36c394a6a8fcecfbea1aa0770c6c112d0b8 t/GeekCode.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (FreeBSD)
+
+iD8DBQE9Xy4LtLPdNzw1AaARAstiAJ4xfkfh+V9KOay6eKTA/M2nVtSvAgCfd1j3
+Jo+RTM8Qjexaj383OOhE5Zs=
+=/Cs4
+-----END PGP SIGNATURE-----
