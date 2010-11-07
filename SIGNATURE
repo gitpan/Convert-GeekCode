@@ -14,11 +14,11 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 7d89c999471098089b0ad4b3261f26d4375e20e1 Changes
+SHA1 cf290e36f7e50a49c134dddbb2533a6b20e46183 Changes
 SHA1 ff28bb112bd226e0c058ed00a401b16582616d9b MANIFEST
-SHA1 c139739757e38aa8bde8c1ee1cbb2981e32720ce META.yml
+SHA1 274dc71c53af8a6239091a435d70bb99139d197b META.yml
 SHA1 b21936dde63c240bcc2d1a03688ec9aa429aae83 Makefile.PL
-SHA1 5cc6dbc2bf91420cf131b7d58ea83b3a18456c42 README
+SHA1 e855e4f0fdf618f582cf741fea5396ecef1dbd38 README
 SHA1 7305dbe2904416e28decb05396988a5d51d578be inc/Module/Install.pm
 SHA1 129960509127732258570c122042bc48615222e1 inc/Module/Install/Base.pm
 SHA1 cf3356ed9a5bd2f732527ef9e7bc5ef4458c8a93 inc/Module/Install/Can.pm
@@ -30,7 +30,7 @@ SHA1 a615bb050ca0b2d79bfa0224addcb83019a53b09 inc/Module/Install/ReadmeFromPod.p
 SHA1 d3a4c720c6ec7f8fce7df37002fbc9177fb77050 inc/Module/Install/Scripts.pm
 SHA1 5457015ea5a50e93465bf2dafa29feebd547f85b inc/Module/Install/Win32.pm
 SHA1 051e7fa8063908befa3440508d0584a2497b97db inc/Module/Install/WriteAll.pm
-SHA1 8231df271160e817a1399ff697437288423cdbf5 lib/Convert/GeekCode.pm
+SHA1 79d669d15cbfdedcba4c9efcc82455e9425f2648 lib/Convert/GeekCode.pm
 SHA1 a3574bf85df3245c1d9c4efe3d6b67d5847492c9 lib/Convert/GeekCode/geekcode/3.12/en_us.yml
 SHA1 fe8fcc5ff50e331e7290551d82bb06afa58d70e9 lib/Convert/GeekCode/geekcode/3.12/zh_cn.yml
 SHA1 484a30080a1d899c750a791222190ba5431fce05 lib/Convert/GeekCode/geekcode/3.12/zh_tw.yml
@@ -41,7 +41,7 @@ SHA1 98693269d1f48d9c862fc4bd11f85d89380e4e3c t/1-basic.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (Darwin)
 
-iEYEARECAAYFAkzWI1oACgkQtLPdNzw1AaBSSwCdG5biEPr2NbfbXUXvAULQFNTV
-0sUAn2ZLlVLaBDjeU+LVR6ay12D6kHHy
-=nFYC
+iEYEARECAAYFAkzWZUwACgkQtLPdNzw1AaAaqwCgmGeNonBBmEfzUsVVx6pi2gHf
+lhUAn21PvvYzzy6QlCfGBAIPGicrh5nY
+=pRUW
 -----END PGP SIGNATURE-----
