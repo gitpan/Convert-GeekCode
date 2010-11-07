@@ -1,12 +1,12 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.28.
+signed via the Module::Signature module, version 0.66.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
 
     % cpansign -v
 
-It would check each file's integrity, as well as the signature's
+It will check each file's integrity, as well as the signature's
 validity.  If "==> Signature verified OK! <==" is not displayed,
 the distribution may already have been compromised, and you should
 not run its Makefile.PL or Build.PL.
@@ -14,23 +14,34 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 ead419c052cc92b633b1efa8edd9bf3528afd81b Changes
-SHA1 753ef8c375c93a313239aeb6827b1857bea96a5e MANIFEST
+SHA1 7d89c999471098089b0ad4b3261f26d4375e20e1 Changes
+SHA1 ff28bb112bd226e0c058ed00a401b16582616d9b MANIFEST
 SHA1 c139739757e38aa8bde8c1ee1cbb2981e32720ce META.yml
-SHA1 e90f12c21a84b92c4a70d651830ff2dcf760462c Makefile.PL
-SHA1 ea282b3aa094710e0c2a123a1534d74d5436f7b5 README
-SHA1 8b696de8d60f4741d23d7af56a125554ac31dcfb lib/Convert/GeekCode.pm
-SHA1 2d0d2a7c384446e8369d780a2f3359301812514c lib/Convert/GeekCode/geekcode/3.12/en_us.yml
-SHA1 0472779656e6b893116a4a2cd1a8b277f38d7a1e lib/Convert/GeekCode/geekcode/3.12/zh_cn.yml
-SHA1 e7f4e2159276c517f11c1e0d1042ab945dad8445 lib/Convert/GeekCode/geekcode/3.12/zh_tw.yml
-SHA1 d51c05b26c82d9e986a913d520c36753c590c1e5 script/geekdec
-SHA1 a1575ffae74a596ae03e88eb354194c1d792cc2b script/geekgen
-SHA1 144e8250e795d3cc6234dfdafcfb5a112e22e7e9 t/0-signature.t
-SHA1 9df3235189e2c324c911e6cdc3227db2e6b493de t/1-basic.t
+SHA1 b21936dde63c240bcc2d1a03688ec9aa429aae83 Makefile.PL
+SHA1 5cc6dbc2bf91420cf131b7d58ea83b3a18456c42 README
+SHA1 7305dbe2904416e28decb05396988a5d51d578be inc/Module/Install.pm
+SHA1 129960509127732258570c122042bc48615222e1 inc/Module/Install/Base.pm
+SHA1 cf3356ed9a5bd2f732527ef9e7bc5ef4458c8a93 inc/Module/Install/Can.pm
+SHA1 a17a3743f8dd277d970dcfd09a909e99b497d8fb inc/Module/Install/DSL.pm
+SHA1 bf0a3e1977effc2832d7a813a76dce3f31b437b6 inc/Module/Install/Fetch.pm
+SHA1 b721c93ca5bc9a6aa863b49af15f1b1de6125935 inc/Module/Install/Makefile.pm
+SHA1 026cc0551a0ad399d195e395b46bdf842e115192 inc/Module/Install/Metadata.pm
+SHA1 a615bb050ca0b2d79bfa0224addcb83019a53b09 inc/Module/Install/ReadmeFromPod.pm
+SHA1 d3a4c720c6ec7f8fce7df37002fbc9177fb77050 inc/Module/Install/Scripts.pm
+SHA1 5457015ea5a50e93465bf2dafa29feebd547f85b inc/Module/Install/Win32.pm
+SHA1 051e7fa8063908befa3440508d0584a2497b97db inc/Module/Install/WriteAll.pm
+SHA1 8231df271160e817a1399ff697437288423cdbf5 lib/Convert/GeekCode.pm
+SHA1 a3574bf85df3245c1d9c4efe3d6b67d5847492c9 lib/Convert/GeekCode/geekcode/3.12/en_us.yml
+SHA1 fe8fcc5ff50e331e7290551d82bb06afa58d70e9 lib/Convert/GeekCode/geekcode/3.12/zh_cn.yml
+SHA1 484a30080a1d899c750a791222190ba5431fce05 lib/Convert/GeekCode/geekcode/3.12/zh_tw.yml
+SHA1 571758c4a87c6806253752de6f5e119414e9b7a0 script/geekdec
+SHA1 fb35cc5055acc1b292e8126b86dfae330fe4475b script/geekgen
+SHA1 41afe2c04bb573b40e283e2b210ed70a47a3f8ba t/0-signature.t
+SHA1 98693269d1f48d9c862fc4bd11f85d89380e4e3c t/1-basic.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.2.2 (FreeBSD)
+Version: GnuPG v1.4.10 (Darwin)
 
-iD8DBQE/LTn8tLPdNzw1AaARAuMvAJ9ZqDVjDHdl97szOSOEipJ1dcbl7wCeOWtm
-p+/7+DZJA0M6VByS4xcuEVA=
-=sx8A
+iEYEARECAAYFAkzWI1oACgkQtLPdNzw1AaBSSwCdG5biEPr2NbfbXUXvAULQFNTV
+0sUAn2ZLlVLaBDjeU+LVR6ay12D6kHHy
+=nFYC
 -----END PGP SIGNATURE-----
