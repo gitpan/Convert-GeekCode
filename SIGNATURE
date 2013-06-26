@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.66.
+signed via the Module::Signature module, version 0.73.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,34 +14,38 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 bfd7712ab61f62b8804c290aaf3cb21e5ec149d1 Changes
-SHA1 ff28bb112bd226e0c058ed00a401b16582616d9b MANIFEST
-SHA1 6c12b671148dfae568ee2eb1035069398ed11b28 META.yml
-SHA1 b21936dde63c240bcc2d1a03688ec9aa429aae83 Makefile.PL
-SHA1 81642fd720a15df522275d0f18953fd3314f7b89 README
-SHA1 7305dbe2904416e28decb05396988a5d51d578be inc/Module/Install.pm
-SHA1 129960509127732258570c122042bc48615222e1 inc/Module/Install/Base.pm
-SHA1 cf3356ed9a5bd2f732527ef9e7bc5ef4458c8a93 inc/Module/Install/Can.pm
-SHA1 a17a3743f8dd277d970dcfd09a909e99b497d8fb inc/Module/Install/DSL.pm
-SHA1 bf0a3e1977effc2832d7a813a76dce3f31b437b6 inc/Module/Install/Fetch.pm
-SHA1 b721c93ca5bc9a6aa863b49af15f1b1de6125935 inc/Module/Install/Makefile.pm
-SHA1 026cc0551a0ad399d195e395b46bdf842e115192 inc/Module/Install/Metadata.pm
-SHA1 a615bb050ca0b2d79bfa0224addcb83019a53b09 inc/Module/Install/ReadmeFromPod.pm
-SHA1 d3a4c720c6ec7f8fce7df37002fbc9177fb77050 inc/Module/Install/Scripts.pm
-SHA1 5457015ea5a50e93465bf2dafa29feebd547f85b inc/Module/Install/Win32.pm
-SHA1 051e7fa8063908befa3440508d0584a2497b97db inc/Module/Install/WriteAll.pm
-SHA1 827861cda902ab421c2ca6e1cdab32644b1179b1 lib/Convert/GeekCode.pm
+SHA1 babe51fa7bc5c19ae5232bbd2343e384680bdcf1 Changes
+SHA1 e21cbb4489cd3ac6df7579167b3fc14afacd6812 MANIFEST
+SHA1 07ea53e4ba55ce53cc219af66c0aa8cfa7daa841 META.yml
+SHA1 b3dcd708dd128fa5581b116e7483c4ff15c93a0a Makefile.PL
+SHA1 ac99d34dfe4c16700e062cb1b26c9773031fbd75 README
+SHA1 5a128be7974251d86f2ef066c13ef00792fab07c README.mkdn
+SHA1 8a924add836b60fb23b25c8506d45945e02f42f4 inc/Module/Install.pm
+SHA1 2d0fad3bf255f8c1e7e1e34eafccc4f595603ddc inc/Module/Install/Base.pm
+SHA1 f0e01fff7d73cd145fbf22331579918d4628ddb0 inc/Module/Install/Can.pm
+SHA1 7328966e4fda0c8451a6d3850704da0b84ac1540 inc/Module/Install/Fetch.pm
+SHA1 21b514a511e63a34a2b20a6eb45f291dde50c310 inc/Module/Install/GithubMeta.pm
+SHA1 b62ca5e2d58fa66766ccf4d64574f9e1a2250b34 inc/Module/Install/Makefile.pm
+SHA1 1aa925be410bb3bfcd84a16985921f66073cc1d2 inc/Module/Install/Metadata.pm
+SHA1 3b9281ddf7dd6d6f5de0a9642c69333023193c80 inc/Module/Install/Package.pm
+SHA1 4d793c044726e06fe35d8d129b76da2803377f92 inc/Module/Install/Scripts.pm
+SHA1 e4196994fa75e98bdfa2be0bdeeffef66de88171 inc/Module/Install/Win32.pm
+SHA1 c3a6d0d5b84feb3280622e9599e86247d58b0d18 inc/Module/Install/WriteAll.pm
+SHA1 26d58a041cd6b3d21db98b32e8fd1841aae21204 inc/Module/Package.pm
+SHA1 62e5a1ef96a99aea00342e45338adb23864eb04b inc/Pod/Markdown.pm
+SHA1 9ea001135e95bb2aae232501090c24d5251d368a lib/Convert/GeekCode.pm
 SHA1 a3574bf85df3245c1d9c4efe3d6b67d5847492c9 lib/Convert/GeekCode/geekcode/3.12/en_us.yml
 SHA1 fe8fcc5ff50e331e7290551d82bb06afa58d70e9 lib/Convert/GeekCode/geekcode/3.12/zh_cn.yml
 SHA1 484a30080a1d899c750a791222190ba5431fce05 lib/Convert/GeekCode/geekcode/3.12/zh_tw.yml
 SHA1 571758c4a87c6806253752de6f5e119414e9b7a0 script/geekdec
 SHA1 fb35cc5055acc1b292e8126b86dfae330fe4475b script/geekgen
 SHA1 41afe2c04bb573b40e283e2b210ed70a47a3f8ba t/0-signature.t
-SHA1 98693269d1f48d9c862fc4bd11f85d89380e4e3c t/1-basic.t
+SHA1 915cdbafdcaff683598cebb08e9363fe2e4e1e39 t/1-basic.t
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.10 (Darwin)
+Version: GnuPG v1.4.12 (Darwin)
+Comment: GPGTools - http://gpgtools.org
 
-iEYEARECAAYFAkzXmM8ACgkQtLPdNzw1AaBA3wCfcYEKsRDLK0QKGmq/hdbgyg0o
-avUAnibFX1AMRaShP++fX/QwN1prk+tn
-=QBB1
+iEYEARECAAYFAlHLLMAACgkQtLPdNzw1AaAZfQCgqd1xlFYA/OFpX1JKNnUtbZrt
+hmcAn0xBW2phB3IjkaaLDqbrqI0r5mKk
+=HxAq
 -----END PGP SIGNATURE-----

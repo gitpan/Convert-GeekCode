@@ -1,10 +1,6 @@
 NAME
     Convert::GeekCode - Convert and generate geek code sequences
 
-VERSION
-    This document describes version 0.62 of Convert::Geekcode, released
-    November 8, 2010.
-
 SYNOPSIS
         use Convert::GeekCode; # exports geek_decode()
 
@@ -40,7 +36,7 @@ AUTHORS
 
 CC0 1.0 Universal
     To the extent possible under law, 唐鳳 has waived all copyright and
-    related or neighboring rights to Module-Signature.
+    related or neighboring rights to Convert-GeekCode.
 
     This work is published from Taiwan.
 
